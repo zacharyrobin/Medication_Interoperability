@@ -13,9 +13,9 @@ This research was presented at the [IEEE EMBS 46th Annual International Conferen
 
 ## 📧 Contacts
 
-- Zachary Robin | Agile & Adaptive Software Engineering | The MITRE Corporation Seattle, USA | [zrobin@MITRE.org](zrobin@MITRE.org) | [Linkedin](https://www.linkedin.com/in/zachary-robin/)
+- Zachary Robin | Agile & Adaptive Software Engineering | The MITRE Corporation Seattle, USA | [zrobin@MITRE.org](zrobin@MITRE.org) | [LinkedIn](https://www.linkedin.com/in/zachary-robin/)
 
-- Sahil Malhotra | Mission Enabled Software Solutions | The MITRE Corporation Bedford, USA | [smalholtra@MITRE.org](smalholtra@MITRE.org) | [Linkedin](https://www.linkedin.com/in/sahil-swe/)
+- Sahil Malhotra | Mission Enabled Software Solutions | The MITRE Corporation Bedford, USA | [smalholtra@MITRE.org](smalholtra@MITRE.org) | [LinkedIn](https://www.linkedin.com/in/sahil-swe/)
 
 - Hannah Nolte, Ph.D. | Advanced Software Innovation | The MITRE Corporation Bedford, USA | [hnolte@MITRE.org](hnolte@MITRE.org)
 
