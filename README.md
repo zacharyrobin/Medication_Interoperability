@@ -9,7 +9,7 @@ This research was presented at the [IEEE EMBS 46th Annual International Conferen
 
 -> [The Extended Abstract can be found here](https://github.com/zacharyrobin/Medication_Interoperability/blob/main/Medication%20Interoperability_Extended%20Abstract%20IEEE%20Format.pdf)
 
--> [The Poster Presentation can be found here](https://github.com/zacharyrobin/Medication_Interoperability/blob/main/Medication%20Interoperability%20_%20Poster%20Presentation.pdf)
+-> [The Poster Presentation can be found here](https://github.com/zacharyrobin/Medication_Interoperability/blob/main/Poster%20Presentation.pdf)
 
 ## 📧 Contacts
 
